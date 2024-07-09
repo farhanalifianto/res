@@ -1,3 +1,4 @@
 res
 -consider main
--consider side quest
+-consider main 2 times
+-remove consider fanum tax
